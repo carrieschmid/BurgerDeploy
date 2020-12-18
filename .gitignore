@@ -1,0 +1,17 @@
+  
+bin
+obj
+.DS_Store
+*.db
+wwwroot
+publish
+settings.json
+appsettings.json
+.idea
+.DS_Store
+.DocumentRevisions-V100
+.Spotlight-V100
+.Trashes
+node_modules
+
+
